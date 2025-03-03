@@ -1,0 +1,1 @@
+print("kolejna informacja do gita")
